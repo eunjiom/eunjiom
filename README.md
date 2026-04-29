@@ -1,4 +1,4 @@
-## Hi there 👋
+## 은지왔다감 👋
 
 <!--
 **eunjiom/eunjiom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
